@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OOGame - Pokemon Go</string>
+    <string name="textNoPokemon">No pokemon found</string>
+    <string name="textMyPokemons">My Pokemons</string>
+    <string name="textBallHunt">Ball</string>
+    <string name="textMyPokemonHunt">My pokemon</string>
+    <string name="textPokemonDodge">%s dodges</string>
+    <string name="textPokemonRunAway">%s wins and runs away</string>
+    <string name="textPokemonCaught">%s is caught!</string>
+    <string name="textPokemonHunt">%s V.S. %s</string>
+    <string name="user">User Name</string>
+    <string name="Password">Password</string>
+    <string name="textuser">User Name :</string>
+    <string name="textpassword">Password :</string>
+    <string name="textLogin">Login</string>
+    <string name="textPackage">package</string>
+    <string name="textEnd">The End</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/map1"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/ivFieldPokemon"
+        android:layout_width="131dp"
+        android:layout_height="141dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/greenbird" />
+
+    <ImageView
+        android:id="@+id/ivBall"
+        android:layout_width="57dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="22dp"
+        android:src="@drawable/ball" />
+</RelativeLayout>
