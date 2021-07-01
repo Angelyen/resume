@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'ANTHOLIN CAPSULES WINSTON'
+}
+
+item {
+  id: 2
+  name: 'A.T. TABLETS 500MG (ACETAMINOPHEN) LITA'
+}
+
+item {
+  id: 3
+  name: 'BETTY CAPSULES'
+}
+
+item {
+  id: 4
+  name: 'BROSOU TABLETS 20MG _CHINTENG_ (TIPEPIDINE HIBENZATE)'
+}
+
+item {
+  id: 5
+  name: 'COHITONG TABLETS 500MG (ACETAMINOPHEN) TAI TU'
+}
+
+item {
+  id: 6
+  name: 'IBUPROFEN F.C. TABLETS 400MG KOJAR'
+}
+
+item {
+  id: 7
+  name: 'Noma Tablet H.H'
+}
+
+item {
+  id: 8
+  name: 'Norcol F.C. Tablets 20mg S.C'
+}
+
+item {
+  id: 9
+  name: 'Rinderon'
+}
+
+item {
+  id: 10
+  name: 'Tagament Famotidine'
+}
+
+item {
+  id: 11
+  name: 'ULMERLINE TABLETS SINPHAR'
+}
